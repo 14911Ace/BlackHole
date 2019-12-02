@@ -1,1 +1,5 @@
-<p> blue </p>
+
+p{ color: #0000FF; }
+body {
+   background-color: red;
+}
